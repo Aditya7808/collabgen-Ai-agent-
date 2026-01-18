@@ -1,0 +1,28 @@
+{
+  "report_id": "548ce4ab-97d3-42dc-9e25-8863b845b237",
+  "company_name": "Apple",
+  "partner_company": "Microsoft",
+  "domain": "AI",
+  "status": "failed",
+  "content": "# Collaboration Report: Apple & Microsoft\n\n**Domain**: AI  \n**Report ID**: 548ce4ab-97d3-42dc-9e25-8863b845b237  \n**Generated**: 2026-01-18 17:48:34 UTC\n\n---\n\n",
+  "sections": {
+    "research": {
+      "status": "failed",
+      "content": "",
+      "error": "Agent 'Research Agent' execution failed: 'LLMCircuitBreaker' object has no attribute 'failure'"
+    },
+    "product": {
+      "status": "skipped",
+      "content": "",
+      "error": null
+    },
+    "marketing": {
+      "status": "skipped",
+      "content": "",
+      "error": null
+    }
+  },
+  "created_at": "2026-01-18T17:48:34.363307",
+  "execution_time_ms": 615.8716678619385,
+  "tokens_used": 0
+}
